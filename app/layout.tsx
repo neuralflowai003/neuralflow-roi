@@ -19,7 +19,7 @@ export const metadata: Metadata = {
       'Discover exactly how much your manual work is costing you. Get annual savings, breakeven month, and a custom roadmap in 60 seconds.',
     url: 'https://roi.neuralflowai.io/roi-calculator',
     siteName: 'NeuralFlow AI',
-    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'NeuralFlow AI ROI Calculator' }],
+    images: [{ url: '/og-image.png', width: 1200, height: 628, alt: 'NeuralFlow AI ROI Calculator' }],
     type: 'website',
   },
   twitter: {
